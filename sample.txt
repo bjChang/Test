@@ -1,2 +1,3 @@
 깃연습
 add change log
+commit 인덱스의 상태를 기록
